@@ -1,0 +1,17 @@
+{
+    "name": "craftygirls-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Tart Workshop"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/craftygirls-bower.git"
+    },
+    "description": "Crafty Girls font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
